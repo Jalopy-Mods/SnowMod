@@ -12,6 +12,11 @@ In other words, this mod:
 * Slightly increases the fog
 * Replaces all of the textures to a snowy variant (roads turn snowy, grass turns to snow etc)
 * Makes the days shorter
+* Adds an option to change the handling as if you are driving on snow/ice
+* Adds an option to replace the dirt on the car with snowier variants
+
+This mod **does not**:
+* Replace the rain running down the windscreen with snow
 
 ![image](https://github.com/user-attachments/assets/b9e1302e-1175-402b-aaa9-3403fb0c47e0)
 
