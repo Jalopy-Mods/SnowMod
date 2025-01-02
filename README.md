@@ -15,6 +15,8 @@ In other words, this mod:
 * Adds an option to change the handling as if you are driving on snow/ice
 * Adds an option to replace the dirt on the car with snowier variants
 
+The snow/ice handling option works very well with the [Better Suspension](https://github.com/Jalopy-Mods/BetterSuspension) mod.
+
 This mod **does not**:
 * Replace the rain running down the windscreen with snow
 
