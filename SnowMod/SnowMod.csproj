@@ -55,8 +55,8 @@
       <HintPath>C:\Program Files (x86)\Steam\steamapps\common\Jalopy\Jalopy_Data\Managed\JaLoader.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="MonoMod.Backports">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Jalopy\Jalopy_Data\Managed\MonoMod.Backports.dll</HintPath>
+    <Reference Include="JaLoader.Common">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Jalopy\Jalopy_Data\Managed\JaLoader.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -91,6 +91,10 @@
     </Reference>
     <Reference Include="UnityEngine.UIModule">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Jalopy\Jalopy_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ValueTupleBridge">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Jalopy\Jalopy_Data\Managed\ValueTupleBridge.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>

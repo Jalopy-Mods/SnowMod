@@ -21,12 +21,12 @@ namespace SnowMod
         public override string ModName => "Snow Mod";
         public override string ModAuthor => "Leaxx";
         public override string ModDescription => "Makes the game feel cold.";
-        public override string ModVersion => "1.0";
+        public override string ModVersion => "1.1";
         public override string GitHubLink => "https://github.com/Jalopy-Mods/SnowMod";
         public override WhenToInit WhenToInit => WhenToInit.InGame;
         public override List<(string, string, string)> Dependencies => new List<(string, string, string)>()
         {
-            ("JaLoader", "Leaxx", "1.0.0")
+            ("JaLoader", "Leaxx", "5.0.0")
         };
 
         public override bool UseAssets => true;
