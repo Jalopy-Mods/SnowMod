@@ -24,7 +24,7 @@ This mod **does not**:
 *image made by Mewyx
 
 ### How to install
-1. Make sure you have [JaLoader](https://github.com/theLeaxx/JaLoader) 1.0.0+ installed. Version 3.5.4 is recommended, due to the new `OnRouteGenerated` code.
+1. Make sure you have [JaLoader](https://github.com/theLeaxx/JaLoader) 5.0.0+ installed.
 ### Manual method: Place it in your mods folder (default is `Documents/Jalopy/Mods`)
 ### Automatic method: 
 * **This requires that the `Enable JaDownloader` setting in `Modloader Options/Preferences` in-game is set to `Yes`**
